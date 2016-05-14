@@ -1,0 +1,10 @@
+Package: Rbowtie2
+Type: Package
+Title: R bowtie2 wrapper
+Version: 0.99.1
+Date: 2016-05-14
+Author: Anita Lerch
+Maintainer: Anita Lerch <anita.lerch@unibas.ch>
+Description: This package provides an R wrapper around the popular bowtie2 short read aligner.
+License: GNUv3
+LazyLoad: yes
